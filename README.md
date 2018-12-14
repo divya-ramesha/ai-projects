@@ -1,2 +1,2 @@
 # ai-problems
-Solutions to AI homework problems
+Solutions to AI simple algorithm problems
