@@ -1,2 +1,2 @@
-# ai-basic-problems
-Solutions to AI simple algorithm problems.
+# ai-problems
+Solutions to AI algorithm problems.
