@@ -1,2 +1,2 @@
 # ai-problems
-Solutions to AI algorithm problems.
+Solutions to basic AI algorithm problems - CSCI 561.
